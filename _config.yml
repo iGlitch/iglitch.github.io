@@ -1,0 +1,8 @@
+title: "グリッチ-ハブ :: Glitch-Hub"
+description: "行動.精神 :: make.believe"
+google_analytics: UA-40913244-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
